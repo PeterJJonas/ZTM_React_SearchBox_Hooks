@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'OpenDyslexic';
+  font-style: normal;
+  font-weight: normal;
+  src: local(OpenDyslexic), url('OpenDyslexic-Regular.woff'), format('woff');
+}
+
+body {
+  font-family: 'OpenDyslexic'
+}
